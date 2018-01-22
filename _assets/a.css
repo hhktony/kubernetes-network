@@ -1,0 +1,9 @@
+.reveal {
+  font-size: 26px;
+  font-weight: normal;
+  /* color: #1c98e6; */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
